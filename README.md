@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lance-GH
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Android Mobile App Development
+- 👀 I’m interested in Android Mobile App Development
+- 🌱 I’m currently learning Android Studio
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: lcblows3@gmail.com
 
