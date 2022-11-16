@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lance-GH
 - 👀 I’m interested in simply becoming a more skilled programmer
-- 🌱 I’m currently learning the C programming language
+- 🌱 I’m currently learning the C++ programming language
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: lcblows3@gmail.com
 
